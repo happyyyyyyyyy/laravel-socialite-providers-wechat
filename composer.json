@@ -8,9 +8,6 @@
     }, {
         "name": "xiami",
         "email": "jhdxr@php.net"
-    }, {
-        "name": "sunqj",
-        "email": "aiwozhe@yeah.net"
     }],
     "require": {
         "php": "^7.2",
